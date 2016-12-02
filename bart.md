@@ -2,7 +2,7 @@
 layout: page
 title: Bart
 permalink: /bart/
-heading: bart!
+heading: Bart
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=_p93u4PV8_o" frameborder="0" allowfullscreen=""></iframe>
